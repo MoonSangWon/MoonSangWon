@@ -5,8 +5,10 @@
     <a href="https://velog.io/@kuim75"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
     <a href="https://curious-bubbler-f7d.notion.site/HOME-97b90076e25c4f91a84ae7e04028819c" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
     <a href="https://wakatime.com/@182dff72-168b-467b-ad05-30feb9d9a130"><img src="https://wakatime.com/badge/user/182dff72-168b-467b-ad05-30feb9d9a130.svg" alt="Total time coded since Aug 1 2022" /></a>
-   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMoonSangWon%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-<Strong>📧Email📧</Strong><br>moon125774@gmail.com<br>
+   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMoonSangWon%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+       <Strong>📧Email📧</Strong><br>moon125774@gmail.com
+        </a>
+<br>
 
 </p>
 <br>
