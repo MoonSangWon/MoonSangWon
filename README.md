@@ -1,4 +1,4 @@
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoonSangWon&theme=nord_light)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoonSangWon&theme=default)
 
 ## 📌 Profile
 
