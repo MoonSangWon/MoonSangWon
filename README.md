@@ -6,6 +6,7 @@
 - (2021.03~2022.07) 인제대 AI 단과대학 학생회 라일락(문화국 부장), 리셋(사무국 부국장)
 - (2018.03 ~) 인제대 컴퓨터 공학부
 <br>
+
 ## 📩 Contact
 
 <a href="https://velog.io/@kuim75">
@@ -24,6 +25,7 @@
 | [유기동물 공고 서비스](https://github.com/ToyPJ-MC/abandoned-pets-be)                     | Spring, Kotlin, MySQL         | 2023 |
 | [동아리 홈페이지 서버 개발 v3](https://github.com/inje-megabrain/megabrain-apps-be)       | Spring, MySQL, Muiti-Module   | 2023 |
 <br>
+    
 ## 🖥️ [Megabrain](https://www.megabrain.kr/)
 
 - 메가톤(해커톤) : [인제생 학교 유틸리티 앱 개발](https://www.megabrain.kr/899fefaf96624cbc9127a7e073c60309)
