@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcome%20%&animation=twinkling&fontSize=90&fontAlignY=38&desc=Moon's%20GitHub%20Profile" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoonSangWon&theme=white)
 
 ## 📌 Profile
 
